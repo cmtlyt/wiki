@@ -1,11 +1,18 @@
 import * as path from 'node:path';
+import process from 'node:process';
 import readingTime from 'rspress-plugin-reading-time';
 import { defineConfig } from 'rspress/config';
+
+const BaseValueMap: Record<string, string> = {
+  github: '/wiki/',
+  netlify: '',
+};
 
 export default defineConfig({
   root: path.join(__dirname, 'docs'),
   title: 'Wiki',
-  base: '/wiki/',
+  // 根据不同平台设置 base
+  base: BaseValueMap[process.env.DEPLOY_PLATFORM || 'github'],
   description: '小知识库',
   icon: '/rspress-icon.png',
   logo: {
