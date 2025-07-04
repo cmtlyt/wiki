@@ -38,7 +38,7 @@ jobs:
         run: pnpm install
       - name: Build with Rspress
         run: |
-          cross-env DEPLOY_PLATFORM=github pnpm run build
+          pnpm dlx cross-env DEPLOY_PLATFORM=github pnpm run build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
