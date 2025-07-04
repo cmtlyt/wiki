@@ -1,0 +1,21 @@
+{
+  "name": "wiki",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "build": "rspress build",
+    "dev": "rspress dev",
+    "lint": "eslint .",
+    "preview": "rspress preview"
+  },
+  "dependencies": {
+    "rspress": "^1.40.2"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^4.16.2",
+    "@types/node": "^18.11.17",
+    "eslint": "^9.19.0",
+    "eslint-plugin-format": "^1.0.1",
+    "rspress-plugin-reading-time": "^0.3.0"
+  }
+}
