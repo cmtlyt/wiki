@@ -3,5 +3,9 @@
     "text": "简介",
     "link": "/guide/",
     "activeMatch": "/guide/"
+  },{
+    "text": "文档",
+    "link": "/docs/",
+    "activeMatch": "/docs/"
   }
 ]

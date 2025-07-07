@@ -1,8 +1,9 @@
+# 如何用AI进行产品idea头脑风暴
 推荐使用gemini-2.5-pro
 
 [https://gemini.google.com/app](https://gemini.google.com/app)
 
-<h3 id="363d9291-d2f8-45c4-884b-88c72f5fdb20">一、先得有一个产品洞察</h3>
+### 一、先得有一个产品洞察
 大多数的产品洞察都起源于生活中的观察，这部分AI有点难以代替。
 
 我们来举一个例子，假设我已经有了一个idea：
@@ -18,7 +19,7 @@
 
 现在，我们有idea了，让我们借助AI，开启一场神奇的头脑风暴。
 
-<h3 id="72c659e3-ff84-4307-a5d4-1728ca1dac73">二、有没有更好的想法</h3>
+### 二、有没有更好的想法
 在思考一个想法时，我们有时候可能容易陷入牛角尖，如果有一个高手能够详细地分析一下我们的想法，展开深入讨论，将会有很大的帮助。
 
 这里是一个可以参考的prompt：
@@ -78,7 +79,7 @@
 
 我们来看看，Gemini帮我们分析得怎么样。
 
-![](https://cdn.nlark.com/yuque/0/2025/png/292798/1751269441442-06a8911b-a18f-48d5-88ce-08374371e087.png?x-oss-process=image%2Fwatermark%2Ctype_d3F5LW1pY3JvaGVp%2Csize_49%2Ctext_SmF2b24gWWFu%2Ccolor_FFFFFF%2Cshadow_50%2Ct_80%2Cg_se%2Cx_10%2Cy_10)
+![](./如何用AI进行产品idea头脑风暴/image.png)
 
 这个回答里面有很多亮点，比如：
 
@@ -89,7 +90,7 @@
 5. 我们不仅要做“记账的”，还要做“出主意的”，**给用户推荐降低体重焦虑的食品**
 6. 很多人可能对卡路里数字没感知，**为了降低用户使用门槛，可以加入更简单的“红绿灯”机制**，提醒用户当前饮食情况
 
-<h3 id="426d0650-2f20-48b9-8d65-b87aad446fa1">三、拆解产品功能</h3>
+### 三、拆解产品功能
 现在，产品的宏观大方向我们心里有数了，接下来就要进入到详细的功能设计环节。  
 我们可以用下面这个prompt：
 
@@ -119,9 +120,9 @@
 > **最终目标：** 你讲完之后，我脑子里应该能清晰地浮现出这个产品大概长什么样，用起来是什么感觉。咱们先不纠结视觉设计，就把骨架和流程弄明白。
 >
 
-![](https://cdn.nlark.com/yuque/0/2025/png/292798/1751269602212-5bd7e5c5-f522-4857-859e-43d796984c66.png?x-oss-process=image%2Fwatermark%2Ctype_d3F5LW1pY3JvaGVp%2Csize_47%2Ctext_SmF2b24gWWFu%2Ccolor_FFFFFF%2Cshadow_50%2Ct_80%2Cg_se%2Cx_10%2Cy_10)
+![](./如何用AI进行产品idea头脑风暴/image(1).png)
 
-<h3 id="8e89a1da-f624-456c-a38a-340326a35ddf">**四、生成UI原型**</h3>
+### **四、生成UI原型**
 当我们把功能设计好之后，下一步就是让功能设计变得更直观，我们可以用下面这个prompt：
 
 > **# 角色**
@@ -199,9 +200,9 @@
 
 结果如下：
 
-![](https://cdn.nlark.com/yuque/0/2025/png/292798/1751269744326-5f73606d-341a-4d83-856b-fb5b87f67030.png?x-oss-process=image%2Fwatermark%2Ctype_d3F5LW1pY3JvaGVp%2Csize_75%2Ctext_SmF2b24gWWFu%2Ccolor_FFFFFF%2Cshadow_50%2Ct_80%2Cg_se%2Cx_10%2Cy_10)
+![](./如何用AI进行产品idea头脑风暴/image(2).png)
 
-![](https://cdn.nlark.com/yuque/0/2025/png/292798/1751269754353-76236d90-2e8e-4c7f-a161-c8d5eaea260d.png?x-oss-process=image%2Fwatermark%2Ctype_d3F5LW1pY3JvaGVp%2Csize_51%2Ctext_SmF2b24gWWFu%2Ccolor_FFFFFF%2Cshadow_50%2Ct_80%2Cg_se%2Cx_10%2Cy_10)
+![](./如何用AI进行产品idea头脑风暴/image(3).png)
 
 
 
