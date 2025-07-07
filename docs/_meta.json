@@ -3,7 +3,8 @@
     "text": "简介",
     "link": "/guide/",
     "activeMatch": "/guide/"
-  },{
+  },
+  {
     "text": "文档",
     "link": "/docs/介绍",
     "activeMatch": "/docs/介绍"
