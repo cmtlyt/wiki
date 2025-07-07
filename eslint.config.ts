@@ -3,7 +3,6 @@ import defineConfig from '@antfu/eslint-config';
 export default defineConfig(
   {
     jsx: true,
-    pnpm: true,
     markdown: true,
     typescript: true,
     formatters: true,
