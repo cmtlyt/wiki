@@ -1,8 +1,10 @@
-["介绍",
+[
+  "介绍",
   {
     "type": "dir",
     "name": "提示词",
     "label": "提示词",
     "collapsible": true,
     "collapsed": false
-  }]
+  }
+]
