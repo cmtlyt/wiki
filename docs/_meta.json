@@ -5,7 +5,7 @@
     "activeMatch": "/guide/"
   },{
     "text": "文档",
-    "link": "/docs/",
-    "activeMatch": "/docs/"
+    "link": "/docs/介绍",
+    "activeMatch": "/docs/介绍"
   }
 ]
