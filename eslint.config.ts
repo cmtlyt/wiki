@@ -11,6 +11,7 @@ export default defineConfig(
       quotes: 'single',
       semi: true,
     },
+    ignores: ['**/*.md'],
   },
   {
     rules: {

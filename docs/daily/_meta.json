@@ -1,0 +1,10 @@
+[
+  "介绍",
+  {
+    "type": "dir",
+    "name": "前端知识",
+    "label": "前端知识",
+    "collapsible": true,
+    "collapsed": false
+  }
+]
