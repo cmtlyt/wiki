@@ -43,6 +43,7 @@ title: Hello world
 ---
 
 # {frontmatter.title}
+
 ```
 
 The previously defined properties will be passed to the component as `frontmatter` properties. So the final output will be:
@@ -85,6 +86,7 @@ This is a `block` of `Custom Title`
 :::tip{title="Custom Title"}
 This is a `block` of `Custom Title`
 :::
+
 ```
 
 **Output:**
@@ -133,6 +135,7 @@ console.log('Hello World');
 ```js title="hello.js"
 console.log('Hello World');
 ```
+
 ````
 
 **Output:**
@@ -189,6 +192,7 @@ const b = 2;
 
 console.log(b);
 ```
+
 ````
 
 **Output:**

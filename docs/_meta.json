@@ -8,5 +8,10 @@
     "text": "文档",
     "link": "/docs/介绍",
     "activeMatch": "/docs/介绍"
+  },
+  {
+    "text": "日常记录",
+    "link": "/daily/",
+    "activeMatch": "/daily/"
   }
 ]
